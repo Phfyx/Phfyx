@@ -20,4 +20,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>📖Currently leearning</h3>
+<h3>📖Currently learning</h3>
+<p>
+  Java
+  Angular
+</p>
